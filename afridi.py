@@ -48,7 +48,7 @@ def jalan(z):
 		sys.stdout.flush()
 		time.sleep(0.0001)
 
-#Dev:love_hacker
+#Dev:love_Sadaf
 ##### LOGO #####
 logo = """
 
